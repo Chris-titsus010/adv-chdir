@@ -2,6 +2,8 @@
 
 Cdx finds the directory you are looking for and takes you there.
 
+Currently only works in the bash shell if sourcing the script.
+
 <br/>
 <br/>
 
